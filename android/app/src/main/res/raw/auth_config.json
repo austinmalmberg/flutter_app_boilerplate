@@ -1,0 +1,14 @@
+{
+    "client_id": "cbfec50e-1d0f-4a4e-a003-a0b2c113654a",
+    "authorization_user_agent": "DEFAULT",
+    "redirect_uri": "msauth://com.malmberg.austin/f1oGsE2zVRCSSZCBx8pj30yR5Ak%3D",
+    "authorities": [
+        {
+            "type": "AAD",
+            "audience": {
+                "type": "AzureADandPersonalMicrosoftAccount",
+                "tenant_id": "common"
+            }
+        }
+    ]
+}
